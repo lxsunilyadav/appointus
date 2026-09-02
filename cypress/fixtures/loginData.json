@@ -1,0 +1,16 @@
+{
+  "validCredentials": {
+    "email": "adamjohn@yopmail.com",
+    "password": "Techie@1234",
+    "firstname": "Adam",
+    "lastname": "",
+    "phone": "65645444",
+    "country": "Norway",
+    "timezone": "Europe/Oslo"
+  },
+
+  "invalidCredentials": {
+    "email": "a2z@yopmail.com",
+    "password": "newpassword@123"
+  }
+}
