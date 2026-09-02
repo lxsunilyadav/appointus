@@ -20,7 +20,13 @@ import './commands'
 // require('./commands')
 
 
+<<<<<<< HEAD
 Cypress.on('uncaught:exception', (err, runnable) => {
     // Return false to prevent the test from failing
     return false;
   });
+=======
+/// <reference types="cypress" />
+
+require('cypress-xpath');
+>>>>>>> 8dd236cb72e136ad48a85e7ddf004dc086170d4b
